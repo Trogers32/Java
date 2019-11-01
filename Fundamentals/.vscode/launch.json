@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Basic13",
+            "request": "launch",
+            "mainClass": "Basic13",
+            "projectName": "Fundamentals_6ce28553"
+        }
+    ]
+}
